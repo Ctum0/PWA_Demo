@@ -1,5 +1,5 @@
 document.getElementById("ping").addEventListener("click", function(){
-    document.getElementById("out").innerText = "JS is Working";
+    document.getElementById("out").innerText = "Java Script is Working!!";
 
 })
 
